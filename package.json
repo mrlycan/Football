@@ -1,0 +1,17 @@
+{
+  "name": "Football",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+     "react-native": "^0.31.0",
+    "react-native-scrollable-tab-view": "^0.5.3",
+    "react-native-spinkit": "^0.1.2",
+    "react-native-tab-navigator": "^0.3.3",
+    "react-redux": "^4.4.5",
+    "redux-thunk": "^2.1.0"
+  }
+}
